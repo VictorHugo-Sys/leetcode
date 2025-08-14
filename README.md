@@ -1,4 +1,4 @@
-<h2>**leet code**</h2>
+# leet code
 
 Este repositório contém minhas soluções para problemas do **LeetCode**, organizadas por nível de dificuldade e linguagem. O objetivo é treinar habilidades em **algoritmos, estruturas de dados e lógica de programação**, além de manter um portfólio visível no GitHub. <br>
 
