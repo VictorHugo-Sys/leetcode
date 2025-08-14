@@ -7,7 +7,7 @@ Este repositório contém minhas soluções para problemas do **LeetCode**, orga
 <h3>🚀 meu perfil leetcode</h3>
 
 <a href="https://leetcode.com/u/ly_katana/">
-  <img src="https://img.shields.io/badge/Acessar_Site-9831f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Site">
+  <img src="https://img.shields.io/badge/Acessar_Perfil-9831f7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acessar Site">
 </a>
 
 </div>
